@@ -5,12 +5,19 @@
 I recently worked on an SQL-based data analysis project, extracting valuable business insights from a relational database. Some of the key analyses include:
 
 ✅ Identifying the senior-most employee based on job hierarchy
+
 ✅ Finding the countries with the most invoices 📊
+
 ✅ Determining the top 3 highest invoice values 💰
+
 ✅ Discovering the city with the highest revenue for a promotional event
+
 ✅ Recognizing the best customer who has spent the most
+
 ✅ Extracting details of Rock music listeners 🎵
+
 ✅ Listing top 10 artists with the most Rock music tracks 🎸
+
 ✅ Retrieving songs longer than the average track duration 🎶
 
 This project enhanced my SQL querying skills, particularly in JOINs, aggregations, subqueries, and ordering techniques to derive actionable insights.
